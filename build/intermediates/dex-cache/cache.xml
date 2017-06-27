@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/Desktop/myqwaste-master/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9c08565f5cf96a38626b2fc42afc145acd6eb68">
+        <dex dex="/home/absolutelysaurabh/Desktop/myqwaste-master/app/build/intermediates/pre-dexed/debug/classes_18908610d10ad58d451f639eb573faf907e5eba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/bd60bf0cce6fd41f89e70f1b4b845e7a9308cb4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/home/absolutelysaurabh/Desktop/myqwaste-master/app/build/intermediates/pre-dexed/debug/classes_92ef1614f716a7835b77b0e4279aa2afd6fc1855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/d1d930b6e4eb174561f369470ea6e458145b1384/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/home/absolutelysaurabh/Desktop/myqwaste-master/app/build/intermediates/pre-dexed/debug/classes_4280c0d3b4b0305e32211681c52c436ea9003b08.jar" />
+    </item>
+
+</items>
